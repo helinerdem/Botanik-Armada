@@ -1,0 +1,18 @@
+body {
+    background-color:lightgoldenrodyellow;
+    text-align: center;
+}
+
+.dark
+{
+   border-color:lightseagreen
+}
+p{
+    color:lightseagreen
+}
+h1{
+    color:brown
+}
+h2{
+    color:crimson
+}
